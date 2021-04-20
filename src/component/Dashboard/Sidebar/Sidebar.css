@@ -1,0 +1,17 @@
+.sidebar{
+    background-color: #2a2adb;
+    position: fixed;
+}
+.sidebar li{
+    margin-bottom: 2em;
+}
+.sidebar li:hover span{
+    color:green;
+    display: inline-block;
+}
+.sidebar svg{
+    margin-right: 5px;
+}
+.sidebar li{
+    text-decoration: none;
+}

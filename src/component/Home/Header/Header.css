@@ -1,0 +1,23 @@
+header{
+    background-image: url(../../../images/car-driving-women.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+    height:600px;
+    position: relative;
+    z-index:1;
+    margin-bottom:150px;
+}
+header::before{
+    content:'';
+    position: absolute;
+    top:0;
+    /* right:100%; */
+    width:100%;
+    height:100%;
+    background: #0c0b1b;
+    opacity: 0.5;
+    z-index: -200;
+    right:0;
+
+}

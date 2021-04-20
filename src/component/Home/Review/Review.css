@@ -1,0 +1,13 @@
+.review-dsc p{
+    margin:5px;
+    padding:20px;
+    width:300px;
+    line-height: 1.2;
+}
+.review-box{
+    margin-left: 10px;
+    margin-bottom:20px;
+}
+.review-headline img{
+    width:50px;
+}

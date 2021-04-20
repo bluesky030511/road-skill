@@ -1,0 +1,29 @@
+.services{
+    padding-top: 20px;
+    /* margin-bottom: 20px; */
+}
+.service-items{
+    padding: 20px 0px;
+}
+.service-box{
+    height: 450px;
+    /* z-index: -50; */
+    background-color: rgb(226, 226, 226);
+    /* margin-top: -70px; */
+    margin-left: 15px;
+}
+
+
+.card:hover{
+    background-image: linear-gradient(75deg, #bbfff1,#0fcfec);
+    color: rgb(5, 5, 5) !important;
+    border:none;
+    transition:  .2s  all ease-in-out !important;
+}
+
+.card:hover h4,
+.card:hover p
+{
+    color: #fff !important;
+
+}

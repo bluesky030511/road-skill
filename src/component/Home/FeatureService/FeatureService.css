@@ -1,0 +1,19 @@
+.feature-service-box{
+    z-index: -50;
+    background-color: rgb(226, 226, 226);
+    margin-top: -70px;
+    margin-left: 15px;
+}
+.feature-service-box h4{
+    padding:10px 50px;
+
+}
+.feature-service-box:hover{
+    /* background-color: black; */
+    background-image: linear-gradient(75deg, #19D3AE,#0fcfec);
+    color: #fff !important;
+    transition:  1s  all ease-in-out !important;
+}
+main{
+    z-index: -55;
+}

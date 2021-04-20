@@ -1,0 +1,43 @@
+.headline-span{
+    color:#f5ae2b;
+}
+.main-header{
+    /* margin-right:35%; */
+    padding: 50px 0px;
+    text-align: start;
+    padding-left: 150px;
+    position: relative;
+}
+
+.hr-style{
+    width:40%;
+    height: 2px;
+    background-color: rgb(63, 63, 63);
+}
+
+.header-top-desc ul li{
+    list-style:none;
+    margin-left: -20px;
+}
+.header-list{
+    padding-bottom: 20px;
+    font-weight: 400;
+}
+.header-bottom-desc h1{
+    margin-left: 20px;
+}
+
+.header-bottom-desc p{
+    margin-left: 20px;
+    /* color:yellow; */
+    color:whitesmoke;
+    text-align: center;
+    margin-top: 10px;
+}
+.registerBtn{
+    color:white;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 0 20px;
+    font-weight: 600;
+}

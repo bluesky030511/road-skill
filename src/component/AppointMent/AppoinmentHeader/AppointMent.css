@@ -1,0 +1,21 @@
+.calendarDiv{
+    /* align-items: center; */
+    /* margin:auto 0; */
+    /* padding: 20px; */
+}
+.cal{
+    text-align: center;
+    margin-left: 50px;
+    border:none;
+    padding: 10px;
+    background-color: cornflowerblue;
+}
+.ChoseLesson{
+    color:rgb(84, 155, 2);
+    padding: 10px 20px;
+    /* margin-top:20px; */
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 800;
+    font-size: 2.5rem;
+}
